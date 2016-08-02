@@ -1,6 +1,6 @@
 {
   "name": "wobot",
-  "version": "0.8.1",
+  "version": "1.0.0",
   "description": "A plugin-based HipChat bot.",
   "keywords": ["bot", "hipchat"],
   "homepage": "http://github.com/cjoudrey/wobot",
@@ -13,5 +13,5 @@
     "node-xmpp": "^1.0.2",
     "underscore": "^1.8.3"
   },
-  "main": "lib/index.js",
+  "main": "lib/index.js"
 }
